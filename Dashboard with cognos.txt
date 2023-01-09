@@ -1,0 +1,3 @@
+Copy this link and paste in your browser to see the Dashboard in read only mode
+
+https://eu-de.dataplatform.cloud.ibm.com/dashboards/96ddc22e-ae5d-40ec-9770-1fc90caa3e0e/view/7d32db7c01e31bef4ae2c4e407ca2c547a63775db0bb820283d77b490a677297a86b45c3c82c435cdd195363f6e81550c0
